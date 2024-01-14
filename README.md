@@ -10,4 +10,6 @@ ka_network_graph_a+'suffix'.gexf: KA spatial network graph with user movement da
 
 trip_data_ka_dataset_'suffix'.csv: User movement data. 
 
+ka_userID_to_category_mapping.xlsx: Mapping User ID in trip data to User Demographics (Age, Gender) and KA user type.
+
 \pos_files\: Files needed to generate figures. It indicates the node positions for network figures.
