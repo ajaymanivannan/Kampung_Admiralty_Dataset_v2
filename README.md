@@ -1,7 +1,7 @@
 # Kampung_Admiralty_Dataset_v2
 Data and Figures for Kampung Admiralty project
 
-\KA node divisions With scale\: Node divisions of KA spatial network as embedding in KA floor plans is available here.
+\KA node divisions With scale\: Node divisions of the KA spatial network as extracted from KA floor plans are available here.
 
 Spatial program node division label and description.pdf: The description of node labels as shown in the `\KA node divisions With scale\` folder is available here. 
 
